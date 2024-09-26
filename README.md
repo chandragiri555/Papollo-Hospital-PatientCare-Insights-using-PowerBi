@@ -1,4 +1,4 @@
-# Papollo Hospital PatientCare Insights using PowerBi
+# Papollo Hospital Patient Care Insights using PowerBi
 
 **Patient Information Dashboard**
 
